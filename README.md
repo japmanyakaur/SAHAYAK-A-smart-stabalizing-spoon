@@ -1,4 +1,4 @@
-# SAHAYAK-A-smart-stabalizing-spoon
+# SAHAYAK-A smart stabalizing spoon
 
 **SAHAYAK** is a smart assistive device designed to help individuals with hand tremors eat independently and live with dignity. It combines real-time motion correction (via stabilizing spoon hardware) with  tremor analysis system to deliver personalized medical insights.
 
